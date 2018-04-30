@@ -10,5 +10,7 @@ A script that gives users an option to filter out results on the status page bas
 **USAGE**
 
 Go to submission status page of any problem such as:
+
 https://www.codechef.com/LTIME59A/status/GCDDIV
+
 There should be an added option of score, add the partial score you want to view and click go.
